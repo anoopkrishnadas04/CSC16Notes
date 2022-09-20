@@ -1,0 +1,8 @@
+Class Notes:
+* Alphabet is assigned values to be identified in bytes:
+    A = 0
+    B = 1
+    ...
+    Z = 25
+* Standards are set by ASCII code
+* Takes 7 Bits to Store
