@@ -28,6 +28,15 @@ Chapter 2 Notes:
  **Integer division** ( / ) --> however, when floating point values are present, floating point division is applied
  **Modulo** (%) --> Only reserved for integer division
  
+ **Type Conversion**: a conversion of one data type to another
+ **Implicit Conversion**: compiler automatically performs several common conversions between integer and double types
+ 
+**type cast**: explicity converts a value of one type to another type
+**static_cast**: converts the expression's value to the indicated type
+```
+int myIntVar = 2;
+(static_cast<double>(myIntVar));
+```
  
 
 ## Lecture 9/21/2022
