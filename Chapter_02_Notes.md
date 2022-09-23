@@ -21,8 +21,10 @@ Chapter 2 Notes:
  * **function call**: functionName(params)
   * sqrt(x)
   * pow(x,y)
-  * fabs(x) *absolute value* 
+  * fabs(x) *absolute value for floating point values* 
+  * abs(x) *absolute value for int values*
   * Link to more [Built-in Math Functions](https://cplusplus.com/reference/cmath/?kw=cmath)
+ * **Integer Division
 
 ## Lecture 9/21/2022
 * Important KeyWords:
