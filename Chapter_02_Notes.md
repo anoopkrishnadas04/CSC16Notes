@@ -1,3 +1,4 @@
+## Zybooks
 Chapter 2 Notes:
 * Variable: A named item used to hold a value
   * Variable Declaration: Creates a space in memory with name and type
@@ -15,7 +16,9 @@ Chapter 2 Notes:
  * Step-by-Step analysis of the code to ensure quality
 * Dividing by 0.0 results in "inf" or -inf"
  * Dividing 0.0 by 0.0 --> "0.0 / 0.0" results in "NaN" or Not a Number
-* 
+* **Constant**: a variable that cannot bechanged within assignment statements. Identified with keyword ```const```
+
+## Lecture 9/21/2022
 * Important KeyWords:
  * M_PI ==> pi
  * fixed ==> fixes the number of spaces after decimal point that a double can have
