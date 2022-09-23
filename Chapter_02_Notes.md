@@ -17,6 +17,12 @@ Chapter 2 Notes:
 * Dividing by 0.0 results in "inf" or -inf"
  * Dividing 0.0 by 0.0 --> "0.0 / 0.0" results in "NaN" or Not a Number
 * **Constant**: a variable that cannot bechanged within assignment statements. Identified with keyword ```const```
+* **Function**: a list of statements executed by invoking the function's name 
+ * **function call**: functionName(params)
+  * sqrt(x)
+  * pow(x,y)
+  * fabs(x) *absolute value* 
+  * Link to more [Built-in Math Functions](https://cplusplus.com/reference/cmath/?kw=cmath)
 
 ## Lecture 9/21/2022
 * Important KeyWords:
