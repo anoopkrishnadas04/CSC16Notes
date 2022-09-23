@@ -24,7 +24,11 @@ Chapter 2 Notes:
   * fabs(x) *absolute value for floating point values* 
   * abs(x) *absolute value for int values*
   * Link to more [Built-in Math Functions](https://cplusplus.com/reference/cmath/?kw=cmath)
- * **Integer Division
+ randNum
+ **Integer division** ( / ) --> however, when floating point values are present, floating point division is applied
+ **Modulo** (%) --> Only reserved for integer division
+ 
+ 
 
 ## Lecture 9/21/2022
 * Important KeyWords:
